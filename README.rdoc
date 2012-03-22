@@ -1,6 +1,10 @@
-= bootstrap-components-rails
+= Bootstrap components for Rails
 
-Description goes here.
+
+
+Based on: https://gist.github.com/2146036 by @fareesh
+
+Also see: http://dbinsights.tumblr.com/post/19576629452/accordion-rails-helper-for-twitter-bootstrap
 
 == Contributing to bootstrap-components-rails
  

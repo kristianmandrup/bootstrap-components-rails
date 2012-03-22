@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "bootstrap-components-rails"
   gem.homepage = "http://github.com/kristianmandrup/bootstrap-components-rails"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Twitter Bootstrap component for Rails 3+}
+  gem.description = %Q{Helpers for using Bootstrap components in your views}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile
